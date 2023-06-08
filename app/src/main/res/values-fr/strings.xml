@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinguaLytical</string>
+    <string name="hello">Bonjour !</string>
+    <string name="change_language">Changer de Langue</string>
+</resources>
