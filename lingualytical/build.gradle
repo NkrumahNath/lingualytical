@@ -47,7 +47,7 @@ publishing {
         release(MavenPublication) {
             groupId = 'com.codelytical'
             artifactId = 'lingualytical'
-            version = '1.0.1'
+            version = '1.0.3'
 
             afterEvaluate {
                 from components.release
